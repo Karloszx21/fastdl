@@ -1,0 +1,7 @@
+Gulag Showers - Gunfight: On-Site Procurement
+Remake of COD:MW2019 map by Gazyi
+
+Eliminate all enemy players using 
+weapons and equipment that are placed 
+around the map to win the round.
+           
