@@ -1,0 +1,5 @@
+aim_fastshot
+
+map by Static-x
+
+respect: env_cubemap!
