@@ -1,0 +1,8 @@
+Gulag Showers - Gunfight
+Remake of COD:MW2019 map by Gazyi
+
+Eliminate all enemy players using pre-determined 
+weapons and equipment to win the round. 
+
+Weapons and equipment change randomly every round.
+           

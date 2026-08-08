@@ -1,0 +1,11 @@
+Aimtraining Desert Eagle
+Original Design by Som (aim_map_usp)
+Remade for Desert Eagles by Julia
+
+Counter-Terrorists:
+Practice your deagle aim
+
+Terrorists:
+Same as ct.
+
+(Press FIRE to continue)
