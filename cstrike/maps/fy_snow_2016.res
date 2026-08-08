@@ -1,0 +1,14 @@
+halflife.wad
+gfx/env/arcnup.tga
+gfx/env/arcndn.tga
+gfx/env/arcnlf.tga
+gfx/env/arcnrt.tga
+gfx/env/arcnft.tga
+gfx/env/arcnbk.tga
+sound/windsnow.wav
+sprites/laserbeam.spr
+sprites/glow01.spr
+sound/ambience/arabmusic.wav
+sound/de_torn/tk_windstreet.wav
+overviews/fy_snow_2016.bmp
+overviews/fy_snow_2016.txt

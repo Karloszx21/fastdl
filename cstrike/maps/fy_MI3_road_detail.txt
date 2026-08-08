@@ -1,0 +1,6 @@
+bet_floor_rf_04		detail/dt_brick		10.0		10.0
+bet_floor_rf_05		detail/dt_brick		10.0		10.0
+
+conc_asphalt_04		detail/dt_ground3		10.0		10.0
+
+grnd_floor_001b		detail/dt_ground1		10.0		10.0
