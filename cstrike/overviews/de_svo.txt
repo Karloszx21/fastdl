@@ -1,0 +1,14 @@
+// overview description file for de_svo.bsp
+
+global 
+{
+	ZOOM	1.12
+	ORIGIN	-17.93 	-290.25	-512
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_svo.bmp"
+	HEIGHT	-192
+}

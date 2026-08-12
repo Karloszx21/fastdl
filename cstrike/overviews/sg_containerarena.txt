@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	2.16
+	ORIGIN	88	-18	-1.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/sg_containerarena.bmp"
+	HEIGHT	-1.00
+}

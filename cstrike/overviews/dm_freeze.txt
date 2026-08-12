@@ -1,0 +1,13 @@
+// overview description file for dm_freeze.bsp
+global 
+{
+	ZOOM	1.06
+	ORIGIN	0.00 0.0 1514.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/dm_freeze.bmp"
+	HEIGHT 256
+}

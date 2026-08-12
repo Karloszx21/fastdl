@@ -1,0 +1,14 @@
+// overview description file for he_balticum.bsp
+
+global 
+{
+	ZOOM	2.78
+	ORIGIN	-736    -1152    -224
+	ROTATED	0         
+}
+
+layer 
+{
+	IMAGE	"overviews/he_balticum.bmp"
+	HEIGHT	-833
+}
