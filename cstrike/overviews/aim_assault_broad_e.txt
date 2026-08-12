@@ -1,0 +1,14 @@
+// overview description file for aim_assault_broad_e.bsp
+
+global 
+{
+	ZOOM	2.56
+	ORIGIN	0.00 656.00 -19.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/aim_assault_broad_e.bmp"
+	HEIGHT	-19.00
+}

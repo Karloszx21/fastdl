@@ -1,0 +1,14 @@
+// overview description file for as_tundra_new
+
+global 
+{
+	ZOOM	1.09
+	ORIGIN	-96.00	112.00	-864.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/as_tundra_new.tga"
+	HEIGHT	-864.00
+}

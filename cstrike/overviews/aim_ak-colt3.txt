@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	2.58
+	ORIGIN	376	3	-629
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/aim_ak-colt3.bmp"
+	HEIGHT	-629
+}

@@ -1,0 +1,15 @@
+// overview description file for aim_pica_cz.bsp
+
+global 
+{
+	ZOOM	1.71
+	ORIGIN	0.00 	0.00	 160.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/aim_pica_cz.bmp"
+	HEIGHT	31.00
+}
+

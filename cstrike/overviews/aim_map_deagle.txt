@@ -1,0 +1,14 @@
+// overview description file for aim_map_deagle.bsp
+
+global 
+{
+	ZOOM	4.09
+	ORIGIN	717.63	200	-45
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/aim_map_deagle.bmp"
+	HEIGHT	-45
+}

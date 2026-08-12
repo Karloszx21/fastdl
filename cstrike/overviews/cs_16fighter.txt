@@ -1,0 +1,14 @@
+// overview description file for cs_16fighter.bsp
+
+global 
+{
+	ZOOM	2.75
+	ORIGIN	0	1536	-889
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_16fighter.bmp"
+	HEIGHT	-889
+}

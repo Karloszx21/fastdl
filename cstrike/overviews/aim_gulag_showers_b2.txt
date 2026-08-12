@@ -1,0 +1,14 @@
+// overview description file for aim_gulag_showers
+
+global 
+{
+	ZOOM	3.91
+	ORIGIN	12.24	-1.05	-289.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/aim_gulag_showers.bmp"
+	HEIGHT	-289.00
+}

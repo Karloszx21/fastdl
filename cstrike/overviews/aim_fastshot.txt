@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	2.94
+	ORIGIN	0	864	-105
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/aim_fastshot.bmp"
+	HEIGHT	-105
+}

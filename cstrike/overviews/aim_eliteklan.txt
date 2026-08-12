@@ -1,0 +1,14 @@
+// overview description file for aim_eliteklan.bsp
+
+global 
+{
+	ZOOM	3.06
+	ORIGIN	-66.18 	0.00	208.0
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/aim_eliteklan.bmp"
+	HEIGHT	0
+}

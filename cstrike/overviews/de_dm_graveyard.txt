@@ -1,0 +1,14 @@
+// overview description file for de_dm_graveyard.bsp
+
+global 
+{
+	ZOOM	3.23
+	ORIGIN	344.88 	-126.13	-64
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_dm_graveyard.bmp"
+	HEIGHT	-64
+}

@@ -1,0 +1,14 @@
+// overview description file for 1hp_waterfall.bsp
+
+global 
+{
+	ZOOM	3.22
+	ORIGIN	112.00 	-648.00	400.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/1hp_waterfall.bmp"
+	HEIGHT	47.00
+}
